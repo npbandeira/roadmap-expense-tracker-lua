@@ -1,5 +1,3 @@
-Aqui está uma versão mais simples e direta do README:
-
 ```markdown
 # Expense Tracker CLI
 
